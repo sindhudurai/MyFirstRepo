@@ -1,1 +1,1 @@
-{"result":"N","message":"Requested resource is absent"}-SD
+{"result":"N","message":"Requested resource is absent"}
